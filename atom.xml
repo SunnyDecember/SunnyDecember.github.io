@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sunnydecember.github.io/</id>
-    <title>指动科技</title>
-    <updated>2020-12-13T06:19:06.026Z</updated>
+    <title>指动</title>
+    <updated>2020-12-13T06:24:29.101Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://sunnydecember.github.io/"/>
     <link rel="self" href="https://sunnydecember.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://sunnydecember.github.io/images/avatar.png</logo>
     <icon>https://sunnydecember.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, 指动科技</rights>
+    <rights>All rights reserved 2020, 指动</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://sunnydecember.github.io/post/hello-gridea/</id>
